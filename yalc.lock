@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "auth0-tenant-project": {
+      "signature": "c404a1055f954928a0c813c3301c047f",
+      "file": true,
+      "replaced": ".yalc/auth0-tenant-project"
+    }
+  }
+}
